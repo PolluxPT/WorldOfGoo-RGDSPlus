@@ -1,0 +1,19 @@
+{
+  "runtime/librgds_video.so": "331ff893a6dc13668531073a5ac8bea318e7c57f84adbe527daf28e3c2d92ced",
+  "runtime/prepare.py": "d5bb9212b6b2cb82d6eb93aa5c8835cb46ce412261c78d9bd9f651f1de74da3f",
+  "runtime/box64-box32": "5a1601588f55e5f9c87452d60b4b20441787ca32bd6630d1443ec296b52c363a",
+  "runtime/device.py": "32840dc5cabae10f9b08d6a4f059dcf3ee55f23735120eff0f4ad47abd48b364",
+  "runtime/prepare_game.py": "b26f79ba59da1d0d2adb65c57282b7d6a6c64bd3253944f2ba1339d125752961",
+  "runtime/libs.x64/libstdc++.so.6": "e7848e32af4932840ba775169041759a2a8dd5a008af360e5c55bce506eebcf4",
+  "runtime/libs.x64/libgoo_rgds.so": "5114e6289df22fb2543429ec6f5e4744f9833e131a4cfd48049e49a959773742",
+  "runtime/libs.x64/libgcc_s.so.1": "2bd1552c47799ef67e701e81d4383061fd76059868e446e63560f0dd0d5ec14e",
+  "runtime/audio/SDL2_mixer_LICENSE.txt": "28aabfed22b3cb0b7e23ef40385e4f66297c960082f029c96d073cc1d4e008d5",
+  "runtime/audio/libSDL2_mixer-2.0.so.0": "0f0f2fa733cb36078f2bc485e2fade23a4355626e9807fa5fabf99d05070b2e6",
+  "game/WorldOfGoo.bin.x86_64": "9f8e6a907f6cc2ea78b695fce9a4683d7836d3e83b0af9ef0af422ec6fdea898",
+  "game/lib64/libogg.so.0": "dc2aaa4fc08fbbd187c1e62f51462bbd055b0f27f9f66eb3e0d9dbc26ad2feb5",
+  "game/lib64/libvorbis.so.0": "193b98ad41aa2fe792d9559db0e45aa03a5cb9accf7320836a5a50c39944a463",
+  "game/lib64/libSDL2_mixer-2.0.so.0": "0af1f6df408335123125a9c6abbef13a83093e2eb0924402910df023c2a6d01c",
+  "game/lib64/libvorbisfile.so.3": "db0a281860e5ad31f77e9a7eff241e9a8c0254195d822a93af700b8c614c507a",
+  "game/lib64/libSDL2-2.0.so.0": "1c3cdc093c0303116f6e2a03dfc9913e2512b3a1772f97755cce2cbdb571cd8e",
+  "runtime/upper-presenter": "9cfdcdade176cc1a7a0037aba4dd0fdd5f363e3a22d2b12da9815d868d6756f5"
+}

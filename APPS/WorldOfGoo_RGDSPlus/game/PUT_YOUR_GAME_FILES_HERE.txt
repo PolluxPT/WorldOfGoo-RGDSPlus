@@ -1,0 +1,2 @@
+See the README at the root of the GitHub kit. The original
+WorldOfGoo.bin.x86_64 file must be directly in this folder.
